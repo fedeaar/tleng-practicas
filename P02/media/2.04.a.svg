@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="320" height="110" version="1.1" xmlns="http://www.w3.org/2000/svg" style="background: white">
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="74.5" cy="55.5" rx="30" ry="30"/>
+	<text x="64.5" y="61.5" font-family="Times New Roman" font-size="20">q&#8320;</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="171.5" cy="55.5" rx="30" ry="30"/>
+	<text x="161.5" y="61.5" font-family="Times New Roman" font-size="20">q&#8321;</text>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="171.5" cy="55.5" rx="24" ry="24"/>
+	<ellipse stroke="black" stroke-width="1" fill="none" cx="265.5" cy="55.5" rx="30" ry="30"/>
+	<text x="255.5" y="61.5" font-family="Times New Roman" font-size="20">q&#8322;</text>
+	<polygon stroke="black" stroke-width="1" points="12.5,55.5 44.5,55.5"/>
+	<polygon fill="black" stroke-width="1" points="44.5,55.5 36.5,50.5 36.5,60.5"/>
+	<polygon stroke="black" stroke-width="1" points="104.5,55.5 141.5,55.5"/>
+	<polygon fill="black" stroke-width="1" points="141.5,55.5 133.5,50.5 133.5,60.5"/>
+	<text x="116.5" y="76.5" font-family="Times New Roman" font-size="20">0</text>
+	<polygon stroke="black" stroke-width="1" points="201.5,55.5 235.5,55.5"/>
+	<polygon fill="black" stroke-width="1" points="235.5,55.5 227.5,50.5 227.5,60.5"/>
+	<text x="212.5" y="76.5" font-family="Times New Roman" font-size="20">&#955;</text>
+</svg>
